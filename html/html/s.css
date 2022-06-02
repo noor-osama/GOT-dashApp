@@ -1,0 +1,22 @@
+*{
+    background-color: #111;
+}
+
+.column {
+    float: left;
+  }
+  
+  .left{
+    width: 25%;
+    float: left;
+  }
+
+  .right {
+    width: 60%;
+    float: right;
+  }
+  
+  .middle {
+    width: 40%;
+    float: center;
+  }
